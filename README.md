@@ -64,10 +64,10 @@ npm run build
 
 ## 📬 Contact
 Feel free to reach out!
-- 📧 Email: sahilsaw23@gmail.com
-- 🔗 LinkedIn: [linkedin.com/in/sahil-saw](https://linkedin.com/in/sahil-saw)
-- 💻 GitHub: [github.com/Sahilsaw](https://github.com/Sahilsaw)
+- 📧 Email: shuubham.rajput1@gmail.com
+- 🔗 LinkedIn: [linkedin.com/in/shubham-rajput-288142286](https://www.linkedin.com/in/shubham-rajput-288142286/)
+- 💻 GitHub: [github.com/Shubham95869](https://github.com/Shubham95869)
 
 ---
-Made with ❤️ by Sahil Saw
+Made with ❤️ by Shubham Rajput
 
